@@ -1,1 +1,2 @@
 to jest pierwsza linijka tekstu
+to jest druga linijka mojego tekstu
