@@ -1,3 +1,6 @@
 to jest pierwsza linijka tekstu
 to jest druga linijka mojego tekstu
 to jest trzecia linijka mojego tekstu!!!
+
+to jest czwarta linijka mojego tekstu 
+i piąta hehe!!!!!
