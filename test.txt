@@ -8,3 +8,7 @@ i piąta hehe!!!!!
 7 linia mojej pioseniki!!!!
 
 8 commit mojej piosenki ktory bedzie pozniej revert!!!
+
+9 commit mojej nowe pioseneczki
+
+tutaj merge zrobimy!!!
